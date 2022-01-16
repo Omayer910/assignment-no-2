@@ -26,6 +26,12 @@ body{
     border-radius: 10px;
 
 }
+.inlu-pro{
+    margin-left: 200px;
+}
+.head-popular{
+    text-align: center;
+}
 .content{
     margin-left:197px;
     margin-right: 197px;
@@ -48,6 +54,14 @@ body{
     border: 2px solid white;
     box-shadow: 0px 0px 40px 10px gray;
     
+}
+.course-ratings {
+    display: flex;
+    gap: 0.3%;
+    
+}
+.star{
+    color: orange;
 }
 .bonus-part{
     display: flex;
